@@ -1,0 +1,18 @@
+---
+title: "課?<a0>?練習模<e7><89><88>"
+author: "Jasper"
+date: "2020-10-21"
+output: output_format
+params:
+  id: "410973044"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Your code
+
+```{r}
+
+```
